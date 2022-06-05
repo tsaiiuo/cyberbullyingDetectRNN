@@ -1,1 +1,1 @@
-# cyberbullyingDetectRNN
+# cyberbullyingDetect
